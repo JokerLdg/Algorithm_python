@@ -9,7 +9,7 @@
 
 ## :blue_book: Programmers (프로그래머스)
 ### level 1
-
+1
 
 ## :blue_book: Leetcode (리트코드)
 
