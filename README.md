@@ -15,4 +15,11 @@
 ## :blue_book: Leetcode (리트코드)
 
 
+## :blue_book: Algorithm_interview (알고리즘 인터뷰 책)
+### 문자열 조작
+##### valid_palindrome. 1) 유효한 팰린드롬
+##### reverse_string. 2) 문자열 뒤집기
+##### reorder_log_files. 3) 로그 파일 재정렬
+
+
 
