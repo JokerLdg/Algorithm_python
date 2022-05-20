@@ -22,6 +22,8 @@
 ##### reorder_log_files. 3) 로그 파일 재정렬
 ##### most_common_word. 4) 가장 흔한 
 ##### group_anagrams. 5) 그룹 애너그램
+##### longest_palindrome_substring 6) 가장 긴 팰린드롬 부분 문자열
+
 
 
 
