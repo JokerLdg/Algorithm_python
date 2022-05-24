@@ -25,6 +25,7 @@
 ##### longest_palindrome_substring. 6) 가장 긴 팰린드롬 부분 문자열
 ##### two_sum. 7) 두 수의 합
 ##### trapping_rain_water. 8) 빗물 트래핑
+##### three_sum. 9) 세수의 합
 
 
 
