@@ -26,6 +26,7 @@
 ##### two_sum. 7) 두 수의 합
 ##### trapping_rain_water. 8) 빗물 트래핑
 ##### three_sum. 9) 세수의 합
+##### array_partition_1. 10) 배열 파티션1
 
 
 
