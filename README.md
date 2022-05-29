@@ -31,7 +31,7 @@
 ##### best_time_to_buy_and_sell_stock 12) 주식을 사고팔기 가장 좋은 시점
 ##### palindrome_linked_list 13) 팰린드롬 연결 리스트
 ##### merge_two_sorted_lists 14) 두 정렬 리스트의 병합
-##### reverse_linked_list 15) 역순 연결 리스트
+#### reverse_linked_list 15) 역순 연결 리스트
 
 
 
