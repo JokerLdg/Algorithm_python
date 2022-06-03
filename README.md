@@ -36,6 +36,7 @@
 ##### add_two_numbers_2 16) 두 수의 덧셈(전가산기)
 ##### swap_nodes_in_pairs 17) 페어의 노드 스왑
 ##### odd_even_linked_list 18) 홀짝 연결 리스트
+##### reverse_linked_list 19) 역순 연결 리스트2
 
 
 
