@@ -43,6 +43,7 @@
 ##### daily_temperatures 22) 일일 온도
 ##### implement_stack_using_queue 23) 큐를 이용한 스택 구현
 ##### implement_queue_using_stack 24) 스택을 이용한 큐 구현
+##### design_circular_queue 25) 원형 큐 디자인
 
 
 
