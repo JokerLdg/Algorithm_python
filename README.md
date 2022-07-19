@@ -47,6 +47,7 @@
 ##### design_circular_dequeue 26) 원형 데크 디자인
 ##### merge_k_sorted_lists 27) k개 정렬 리스트 병합
 ##### design_hashmap 28) 해시맵 디자인
+##### jewels_and_stones 29) 보석과 돌
 
 
 
